@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sfp-react-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/sfp-react-demo/static/js/main.582ce6da.chunk.js",
+    "main.js.map": "/sfp-react-demo/static/js/main.582ce6da.chunk.js.map",
+    "runtime-main.js": "/sfp-react-demo/static/js/runtime-main.641584d9.js",
+    "runtime-main.js.map": "/sfp-react-demo/static/js/runtime-main.641584d9.js.map",
+    "static/js/2.da543597.chunk.js": "/sfp-react-demo/static/js/2.da543597.chunk.js",
+    "static/js/2.da543597.chunk.js.map": "/sfp-react-demo/static/js/2.da543597.chunk.js.map",
+    "static/js/3.45af952c.chunk.js": "/sfp-react-demo/static/js/3.45af952c.chunk.js",
+    "static/js/3.45af952c.chunk.js.map": "/sfp-react-demo/static/js/3.45af952c.chunk.js.map",
+    "index.html": "/sfp-react-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sfp-react-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.da543597.chunk.js.LICENSE.txt": "/sfp-react-demo/static/js/2.da543597.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sfp-react-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.641584d9.js",
+    "static/js/2.da543597.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.582ce6da.chunk.js"
+  ]
+}
